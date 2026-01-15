@@ -55,12 +55,10 @@ Sou estudante do 2º período de **Ciência da Computação** em Maceió-AL, apa
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafalink22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalink22&layout=compact&theme=dracula"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafalink22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalink22&layout=compact&theme=dracula)
 
 ---
 
