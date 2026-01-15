@@ -49,9 +49,9 @@ Sou estudante do 2º período de **Ciência da Computação** em Maceió-AL, apa
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
-| **[Simulação SINE](LINK_DO_SEU_REPO_SINE)** | Plataforma de empregos com cadastro de usuários, busca de vagas e foco em arquitetura da informação. | `Python` `Django` `SQL` |
+| **[Simulação SINE](https://github.com/Rafalink22/sistema-sine)** | Plataforma de empregos com cadastro de usuários, busca de vagas e foco em arquitetura da informação. | `Python` `Django` `SQL` |
 | **[Portal de Turismo](LINK_DO_SEU_REPO_TURISMO)** | Solução web completa para turismo local. Atuação Full Stack desde requisitos até o deploy. | `PHP` `HTML/CSS` `JS` |
-| **[Analise Educacional](LINK_DO_SEU_REPO_APIEXT)** | Análise de dados do Censo Escolar investigando o impacto da tecnologia na formação. (Projeto APIExt). | `Python` `Pandas` `Data Analysis` |
+| **[Analise Educacional](https://github.com/Rafalink22/WebCoding)** | Análise de dados do Censo Escolar investigando o impacto da tecnologia na formação, resultando em um site rico em informações.  (Projeto APIExt). | `Python` `Pandas` `Data Analysis` |
 
 ---
 
